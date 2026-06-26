@@ -74,7 +74,7 @@ Bye!
 ## 👤 Author
 
 **Aryan**  
-GitHub: [@YOUR-USERNAME](https://github.com/aryan-dev008)
+GitHub: (https://github.com/aryan-dev008)
 
 ---
 
